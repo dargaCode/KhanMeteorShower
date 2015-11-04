@@ -1,4 +1,4 @@
-# khanMeteorShower
+# Khan Academy - Meteor Shower
 (JS) Khan project originally completed 5/22/2015
 
 First animation project!
