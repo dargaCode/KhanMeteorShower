@@ -1,6 +1,6 @@
 # Khan Academy - Meteor Shower
-<strong>Javascript + Processing.js<br>
-Originally completed 5/22/2015</strong>
+<strong>Language: Javascript + Processing.js</strong></br>
+Originally completed 5/22/2015
 
 First animation project!
 
